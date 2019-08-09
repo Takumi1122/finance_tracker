@@ -36,7 +36,8 @@ gem 'bootsnap', '>= 1.1.0', require: false
 gem 'devise'
 gem 'devise-bootstrap-views'
 gem 'bootstrap-sass'
-gem 'stock_quote' 
+gem 'stock_quote'
+gem 'iex-ruby-client'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
